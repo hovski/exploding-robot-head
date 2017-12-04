@@ -48,7 +48,7 @@ body {
 .robot-head-right {
   position: absolute;
   bottom: 53px;
-  right: 160px;
+  left: 160px;
   z-index: 4;
 }
 
