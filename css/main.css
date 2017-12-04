@@ -73,6 +73,7 @@ body {
   right: 193px;
 }
 
-.robor:hover .robot-brain {
-  top: 32px;
+.robot:hover .robot-brain {
+  top: 25px;
+  position: absolute;
 }
