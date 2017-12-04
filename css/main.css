@@ -22,7 +22,7 @@ body {
   width: 320px;
   position: relative;
   margin: 0 auto;
-  padding-top: 12em;
+  padding-top: 14em;
 }
 
 .robot-body {
@@ -74,6 +74,6 @@ body {
 }
 
 .robot:hover .robot-brain {
-  top: 25px;
+  top: 30px;
   position: absolute;
 }
