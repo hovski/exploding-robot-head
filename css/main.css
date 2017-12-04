@@ -51,6 +51,7 @@ body {
   right: 160px;
   z-index: 4;
 }
+
 .robot-head-left {
   z-index: 4;
   position: absolute;
